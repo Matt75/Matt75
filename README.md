@@ -35,3 +35,4 @@ I’m currently a developer of Payment & Shipping Squad at PrestaShop.
 ### Join me at PrestaShop 👍
 
 [PrestaShop is hiring developers, on WeLoveDevs](https://welovedevs.com/app/company/prestashop)
+[PrestaShop is hiring peoples, on WelcomeToTheJungle](https://www.welcometothejungle.com/fr/companies/prestashop)
