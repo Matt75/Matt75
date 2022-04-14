@@ -4,7 +4,7 @@ I’m currently a developer of Payment Squad at PrestaShop.
 
 ## Main projects 🤓
 - **[PrestaShop Checkout](https://github.com/PrestaShopCorp/ps_checkout), the PrestaShop official payment module in partnership with PayPal** as Main Developer (Module part, since 1.2.8)
-- **[PrestaShop Worldline](https://github.com/PrestaShopCorp/worldline), the PrestaShop module that's provide Worldline Sips Paypage integration.** as Main Developer (Module part, since 4.0.0)
+- **[PrestaShop Worldline](https://addons.prestashop.com/en/payment-card-wallet/17209-sips-20-worldline-atos-15-16-17.html), the PrestaShop module that's provide Worldline Sips Paypage integration.** as Main Developer (Module part, since 4.0.0)
 
 ## Side projetcs 🤠 
 - **[PrestaShop](https://github.com/PrestaShop), the PHP e-commerce solution** as Contributor Developer (since 1.6.1.17)
