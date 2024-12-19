@@ -1,16 +1,18 @@
 # Hi, I'm Matt 👋
 
-I’m currently a **developer on the Payment Squad at [PrestaShop](https://prestashop.com)**, based in the beautiful Paris 🇫🇷 area, contributing to building innovative solutions for e-commerce merchants.
+PrestaShop developer since 2012, based in the beautiful Paris 🇫🇷 area, with extensive hands-on experience in eCommerce development, including time at agencies like 202-ecommerce, where I specialized in integrating and optimizing solutions for merchants.
+
+I began working with PayPal technologies in 2016, gaining deep expertise in payment integration and innovation.
+
+In December 2018, I joined PrestaShop, initially contributing to the Marketplace team. Since 2019, I’ve been part of the Payment Squad, leading the development of PrestaShop Checkout in collaboration with PayPal. My focus has been on creating cutting-edge payment solutions that empower merchants to succeed.
+
+With over a decade of experience in the eCommerce ecosystem, I’m passionate about building tools that simplify and enhance online shopping experiences for businesses and their customers.
 
 ## Main project 🤓
 
-### [PrestaShop Checkout](https://prestashop.com/essentials/prestashop-checkout/)
-
-The **official PrestaShop payment module** in partnership with [PayPal](https://www.paypal.com/us/business/accept-payments), where I serve as the Main Developer.
+I’m currently a **developer on the Payment Squad** at [PrestaShop](https://prestashop.com), contributing to the [PrestaShop Checkout](https://prestashop.com/essentials/prestashop-checkout/) product, the **official PrestaShop payment module**, building innovative solutions in collaboration with [PayPal](https://www.paypal.com/us/business/accept-payments).
 
 ![This photo was taken at PrestaShop Day in Paris 🇫🇷, showcasing my ongoing work on PrestaShop Checkout, a product built in collaboration with PayPal.](https://github.com/user-attachments/assets/41f207e4-d5cc-440d-ae67-600a7369c4aa)
-
-Since 2019, I’ve been working at PrestaShop on the Payment Squad, contributing to the PrestaShop Checkout product in collaboration with PayPal.
 
 My work has focused on improving several key areas, including:
 * [Advanced Credit and Debit Card Payments](https://www.paypal.com/us/business/accept-payments/checkout/integration#advanced-checkout): Migrated from the hosted-fields component to the modern card-fields component for better functionality and user experience.
